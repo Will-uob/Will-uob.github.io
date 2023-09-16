@@ -11,11 +11,11 @@ h1 {
 }
 
 
-li {
+#navbar li {
     float: left;
 }
 
-li a {
+#navbar li a {
     display: block;
     color: white;
     text-align: center;
@@ -23,6 +23,6 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+#navar li a:hover {
     background-color: #111;
 }
