@@ -1,6 +1,11 @@
-h1 {
-  color: blue;
+/* Basic configuration for the page */
+
+body {
+    background-color: grey;
+    color: #000000;
 }
+
+/* All of this stuff is for the navbar! */
 
 #navbar {
     list-style-type: none;
