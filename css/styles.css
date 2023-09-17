@@ -9,6 +9,11 @@ a {
     color: red;
 }
 
+.textwall {
+    border-style: solid;
+    border-color: white;
+}
+
 /* All of this stuff is for the navbar! */
 
 #navbar {
