@@ -9,6 +9,8 @@ a {
     color: red;
 }
 
+/* Example of box model, I guess... */
+
 .norbox {
     border-style: solid;
     border-color: white;
