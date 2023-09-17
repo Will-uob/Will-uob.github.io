@@ -3,10 +3,6 @@
 body {
     background-color: black;
     color: white;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
 }
 
 a {
@@ -16,6 +12,10 @@ a {
 .textwall {
     border-style: solid;
     border-color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
 }
 
 /* All of this stuff is for the navbar! */
@@ -26,10 +26,6 @@ a {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-right: 0px;
-    margin-left: 0px;
 }
 
 
