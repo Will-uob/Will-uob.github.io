@@ -5,6 +5,10 @@ body {
     color: white;
 }
 
+a {
+    color: green;
+}
+
 /* All of this stuff is for the navbar! */
 
 #navbar {
