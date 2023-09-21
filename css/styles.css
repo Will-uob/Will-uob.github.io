@@ -33,17 +33,13 @@ img {
 }
 
 .playlistbox {
-    display: flex
+    display: flex;
     position: fixed;
     width: 100%;
     height: 100%;
-}
-
-.playlistbox > iframe {
-    display: block;
-    width: 100%;
-    height: 100%;
-    border: none;
+    border-style: solid;
+    border-color: white;
+    margin: auto;
 }
 
 /* All of this stuff is for the navbar! */
