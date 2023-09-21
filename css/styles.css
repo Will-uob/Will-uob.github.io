@@ -27,8 +27,8 @@ img {
     margin-left: 80px;
     padding-top: 10px;
     padding-left: 10px;
-    display: flex;
-    border-radius: 25px;
+    /* display: flex; */
+    /* border-radius: 25px; */
 }
 
 .header {
@@ -40,7 +40,6 @@ img {
 .playlistbox {
     padding-top: 30px;
     padding-left: 30px;
-    border-radius: 25px;
 }
 
 .playlistbox > iframe {
