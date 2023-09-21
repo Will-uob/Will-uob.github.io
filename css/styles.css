@@ -28,6 +28,7 @@ img {
     padding-top: 10px;
     padding-left: 10px;
     display: flex;
+    border-radius: 25px;
 }
 
 .header {
@@ -39,6 +40,7 @@ img {
 .playlistbox {
     padding-top: 30px;
     padding-left: 30px;
+    border-radius: 25px;
 }
 
 .playlistbox > iframe {
@@ -50,7 +52,7 @@ img {
 
 /* All of this stuff is for the navbar! */
 
-#navbar {
+.navbar {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -58,11 +60,11 @@ img {
     background-color: #333;
 }
 
-#navbar li {
-    float: left;
+.navbar li {
+    float: right;
 }
 
-#navbar li a {
+.navbar li a {
     display: block;
     color: white;
     text-align: center;
@@ -70,6 +72,6 @@ img {
     text-decoration: none;
 }
 
-#navar li a:hover {
+.navar li a:hover {
     background-color: #111;
 }
