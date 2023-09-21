@@ -43,11 +43,8 @@ img {
 */
 
 .playlistbox {
-    display: flex;
     padding-top: 30px;
     padding-left: 30px;
-    border-style: solid;
-    border-color: white;
 }
 
 .playlistbox > iframe {
@@ -55,6 +52,7 @@ img {
     display: block;
     border-style: solid;
     border-color: white;
+    border: 3px;
 }
 
 /* All of this stuff is for the navbar! */
