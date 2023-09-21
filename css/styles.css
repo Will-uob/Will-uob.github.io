@@ -30,11 +30,10 @@ img {
     padding-bottom: 0px;
     padding-left: 10px;
     display: flex;
-    flex-direction: column
 }
 
 .playlistbox {
-    flex-grow: 1;
+    display: flex
     position: fixed;
     width: 100%;
     height: 100%;
