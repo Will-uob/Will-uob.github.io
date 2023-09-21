@@ -46,6 +46,7 @@ img {
 
 iframe {
     margin: auto;
+    display: block;
     border-style: solid;
     border-color: white;
 }
