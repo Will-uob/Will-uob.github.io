@@ -1,9 +1,12 @@
+
 /* Basic configuration for the page */
 
 body {
     background-color: black;
     color: white;
     font-family: "Lucida Console", "Courier New", monospace;
+    display: flex;
+    flex-direction: column;
 }
 
 a {
