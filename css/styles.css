@@ -64,9 +64,9 @@ img {
     display: block;
     border-style: solid;
     border-color: white;
-    width: 100%;
-    height: 100%;
-    /* resize: both; */
+    width: 800px;
+    height: 600px;
+    resize: both;
 }
 
 /* All of this stuff is for the navbar! */
